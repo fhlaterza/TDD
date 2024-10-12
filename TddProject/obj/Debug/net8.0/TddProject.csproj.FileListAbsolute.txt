@@ -1,0 +1,14 @@
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\bin\Debug\net8.0\TddProject.exe
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\bin\Debug\net8.0\TddProject.deps.json
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\bin\Debug\net8.0\TddProject.runtimeconfig.json
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\bin\Debug\net8.0\TddProject.dll
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\bin\Debug\net8.0\TddProject.pdb
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.AssemblyInfoInputs.cache
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.AssemblyInfo.cs
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.csproj.CoreCompileInputs.cache
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.dll
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\refint\TddProject.dll
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.pdb
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\TddProject.genruntimeconfig.cache
+C:\Users\fhlat\OneDrive\Particular\DIO\Desafios\TDD\TddProject\obj\Debug\net8.0\ref\TddProject.dll
